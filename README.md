@@ -1,4 +1,4 @@
-# yearspicker
+# vue2-tools-demo
 
 ## Project setup
 ```
